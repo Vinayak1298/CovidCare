@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <TextView
+        android:id="@+id/tvfaqlquestion"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/opensans"
+        android:padding="10dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/rounded_card_corners"
+        android:backgroundTint="@color/periwinkle"
+        android:text="What kind of help?"
+        android:layout_centerVertical="true"
+        android:textColor="@color/midnightBlue"
+        android:textSize="15sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tvfaqlanswer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/opensans"
+        android:padding="10dp"
+        android:layout_marginTop="15dp"
+        android:background="@drawable/rounded_card_corners"
+        android:backgroundTint="@color/lightSkin"
+        android:text="What kind of help?"
+        android:layout_centerVertical="true"
+        android:textColor="@color/midnightBlue"
+        android:textSize="15sp"
+        android:textStyle="bold"/>
+
+</LinearLayout>

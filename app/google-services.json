@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "817386883414",
+    "firebase_url": "https://covidcare-fdcca.firebaseio.com",
+    "project_id": "covidcare-fdcca",
+    "storage_bucket": "covidcare-fdcca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817386883414:android:b1d566a943ad2e701d6ef7",
+        "android_client_info": {
+          "package_name": "com.example.hackathonapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817386883414-1sbhqa6m8nt9iu6hq3uc10ee634m9ejv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hackathonapp",
+            "certificate_hash": "9367bdef3a69916a104bb4ba6eb630c061d18483"
+          }
+        },
+        {
+          "client_id": "817386883414-3vr8q2mduk62l97roptsshe3frnbsmqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBddS6rnNesxtGFnBDJ1X7YqM8oR4hbao4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817386883414-3vr8q2mduk62l97roptsshe3frnbsmqu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
